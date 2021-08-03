@@ -1,12 +1,10 @@
 ![App Brewery Banner](Documentation/swift-access-levels.png)
 
-# iOS13 Calculator Advanced
+# iOS13 Swift Access Levels
 
 Section 22: Advanced Swift Classroom - Part 2
 
 ## What you will practice
-
-* Swift Access Levels
 
 1. private: within the scope
 2. fileprivate: within the file
