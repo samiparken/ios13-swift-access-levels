@@ -12,10 +12,10 @@ class AnotherClassInAnotherFile {
     
     init() {
         
-        //Step 8. Try to print aFilePrivateProperty Here
+        //Step 8. Try to print aFilePrivateProperty Here - Not Possible
         
-        //Step 10. Try to print anInternalProperty Here
-        
+        //Step 10. Try to print anInternalProperty Here - Possible
+        print("\(AClass().anInternalProperty) printed from methodA in AClass")
     }
     
 }
