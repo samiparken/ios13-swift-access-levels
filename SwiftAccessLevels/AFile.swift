@@ -22,7 +22,7 @@ class AClass {
         var aLocalVariable = "local variable"
         
         //Step 1. Try to print aLocalVariable Here - Possible
-        //print("\(aLocalVariable) printed from methodA in AClass")
+        print("\(aLocalVariable) printed from methodA in AClass")
         
         //Step 3. Try to print aPrivateProperty Here
         
