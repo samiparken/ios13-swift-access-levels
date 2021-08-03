@@ -1,4 +1,4 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+![App Brewery Banner](Documentation/swift-access-levels.png)
 
 # iOS13 Calculator Advanced
 
